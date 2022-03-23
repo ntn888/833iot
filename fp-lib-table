@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "833iot")(type "KiCad")(uri "${KIPRJMOD}/833iot.pretty")(options "")(descr ""))
+)
