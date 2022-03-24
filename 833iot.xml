@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/ajit/work/pcb/833iot/833iot.kicad_sch</source>
-    <date>Thu 24 Mar 2022 05:37:09</date>
+    <date>Thu 24 Mar 2022 20:29:27</date>
     <tool>Eeschema 6.0.1-79c1e3a40b~116~ubuntu21.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -38,13 +38,13 @@
       <tstamps>00000000-0000-0000-0000-00005b158495</tstamps>
     </comp>
     <comp ref="D2">
-      <value>BLUE</value>
+      <value>Yellow</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
-        <field name="LCSC Part #">C273617</field>
+        <field name="LCSC Part #">C74343</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="LCSC Part #" value="C273617"/>
+      <property name="LCSC Part #" value="C74343"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="833iot.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -54,23 +54,23 @@
       <value>RED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
-        <field name="LCSC Part #">C264458</field>
+        <field name="LCSC Part #">C253533</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="LCSC Part #" value="C264458"/>
+      <property name="LCSC Part #" value="C253533"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="833iot.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6417a26b-7fa3-4f15-9e1b-9d747117c266</tstamps>
     </comp>
     <comp ref="D4">
-      <value>PURPLE</value>
+      <value>Green</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
-        <field name="LCSC Part #">C264473</field>
+        <field name="LCSC Part #">C181862</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="LCSC Part #" value="C264473"/>
+      <property name="LCSC Part #" value="C181862"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="833iot.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -80,6 +80,7 @@
       <value>U254-051T-4BH83-F1S</value>
       <footprint>833iot:XKB_U254-051T-4BH83-F1S</footprint>
       <fields>
+        <field name="LCSC Part #">C397452</field>
         <field name="MANUFACTURER">XKB INDUSTRIAL PRECISION</field>
         <field name="MAXIMUM_PACKAGE_HEIGHT">2.98mm</field>
         <field name="PARTREV">A0</field>
@@ -90,6 +91,7 @@
       <property name="MAXIMUM_PACKAGE_HEIGHT" value="2.98mm"/>
       <property name="MANUFACTURER" value="XKB INDUSTRIAL PRECISION"/>
       <property name="PARTREV" value="A0"/>
+      <property name="LCSC Part #" value="C397452"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="833iot.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>

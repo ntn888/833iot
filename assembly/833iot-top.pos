@@ -1,4 +1,4 @@
-Designator     Val                  Package                               Mid X       Mid Y       Rotation  Layer
+Ref     Val                  Package                               PosX       PosY       Rot  Side
 D1        1N5819               D_SOD-323F                         10.1600   -17.7800    0.0000  top
 D2        BLUE                 LED_0603_1608Metric                 1.8000   -22.9875   90.0000  top
 D3        RED                  LED_0603_1608Metric                16.0000   -22.9000   90.0000  top
@@ -23,4 +23,3 @@ U1        E73-2G4M08S1E        E73-2G4M08S1C-52840                 8.9000   -30.
 U2        AP2112K-3.3          SOT-23-5                            6.6625   -22.9000    0.0000  top
 U3        TP4054               SOT-23-5                           11.1000   -22.9000    0.0000  top
 X1        32768kHz             Crystal_SMD_3215-2Pin_3.2x1.5mm    12.2500   -27.0000    0.0000  top
-
